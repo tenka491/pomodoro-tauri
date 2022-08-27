@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: #F9FAFC;
+  height: 100vh;
+  width: 100vw;
+
+}
+
+.sidebarWrapper {
+  width: 25%;
+  background-color: #E6E8F0;
+  box-shadow: 1px 0px 3px 0px #474d66;
+  border-right: 1px solid #c1c4d6;
+}
+
+.avatar {
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+
+.workspaceWrapper {
+  width: 75%;
+}
